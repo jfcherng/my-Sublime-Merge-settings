@@ -20,7 +20,7 @@
 	],
 	"font_size": 12,
 	"highlight_gutter": true,
-	"highlight_line": true,
+	// "highlight_line": true,
 	"highlight_line_number": true,
 	"log_commands": false,
 	"log_control_tree": false,
